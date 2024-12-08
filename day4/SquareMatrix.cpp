@@ -4,6 +4,7 @@
 #include <cassert>
 #include <cstring>
 #include <iterator>
+#include <string>
 
 std::vector<char> SquareMatrix::ExtractDiagonal1() const
 {
